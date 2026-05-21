@@ -63,4 +63,6 @@ public class UserClient {
 
 // inheritance- Is a 
 // Association- has a 
+
+// Demonstrate the concept of inhertance i java by creating an account class javing feilds like account number, customer name 
 		
